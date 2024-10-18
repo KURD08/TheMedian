@@ -1,0 +1,11 @@
+
+![coffee_bar](https://github.com/user-attachments/assets/0385879e-e2eb-4bf4-b794-93f29688e973)
+![cinnamon_roll](https://github.com/user-attachments/assets/3eb30aa8-db47-47b8-b6a0-770f9160a868)
+![cold_brew](https://github.com/user-attachments/assets/901b85e6-6627-483c-a369-765bc34aef22)
+![cookies](https://github.com/user-attachments/assets/8eeb88e0-4ba0-44e7-8ee1-fd89fab5ebdf)
+![croissant](https://github.com/user-attachments/assets/d4e7fe2d-c422-43d4-bb9d-782fce471449)
+![espresso](https://github.com/user-attachments/assets/92f514f5-b0ab-48ef-9bf7-3c145f491a41)
+![iced_coffee](https://github.com/user-attachments/assets/bd795b71-6d64-4194-98a0-438b7263fb48)
+![latte](https://github.com/user-attachments/assets/f1da7915-491f-4d99-bc31-273b76200c09)
+![matcha_beetroot](https://github.com/user-attachments/assets/48c2401c-6e04-46a2-a3c4-d1ba44018bbd)
+![pain_au_chocolat](https://github.com/user-attachments/assets/1d5b136a-9822-49ea-bedc-c5463478eb63)
