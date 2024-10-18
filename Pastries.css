@@ -1,0 +1,148 @@
+#Navbar{
+    background: fixed;
+    background-color:  rgb(130, 70, 21);
+    padding: 10px;
+    
+    }
+    .navspace{
+        color: rgb(255, 255, 255); /* Default font color */
+        text-decoration: none;
+        padding: 10px;
+        transition: background 0.3s, color 0.3s; /* Smooth transition for background and color */
+    }
+    
+    .navspace{
+        color: #ffffff; /* Change font color on hover */
+    }
+    
+    
+    h1{
+        color: rgb(255, 255, 255);
+        position: relative; /* Absolute positioning */
+       right: 100px; /* Align to central */
+       left: 550px; /* Align to central */
+    }
+    
+    .navspace{
+        padding-right: 30px;
+    }
+    body {
+        background-color: black;
+        margin: 0; /* Remove default margin */
+        height: 100vh; /* Full height for the body */
+        position: relative; /* Positioning context */
+    }
+    
+    .twitter-link {
+        position: absolute; /* Absolute positioning */
+        bottom: 0%; /* Align to bottom */
+        left: 40%; /* Align to left */
+    }
+    
+    .twitter-link {
+        width: 350px; /* Set desired width */
+        height: 35px; /* Maintain aspect ratio */
+    }
+    
+    .face-link {
+        position: absolute; /* Absolute positioning */
+        bottom: 0px; /* Align to bottom */
+        left: 36.5%; /* Align to left */
+    }
+    
+    .face-link {
+        width: 350px; /* Set desired width */
+        height: 35px; /* Maintain aspect ratio */
+    }
+    
+    .insta-link {
+        position: absolute; /* Absolute positioning */
+        bottom: 0px; /* Align to bottom */
+        left: 33.1%; /* Align to left */
+    }
+    
+    .insta-link {
+        width: 350px; /* Set desired width */
+        height: 32px; /* Maintain aspect ratio */
+    }
+    
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        background-color: #000000;
+    }
+    
+    header {
+        background: #6f4c3e;
+        color: white;
+        text-align: center;
+        padding: 20px;
+    }
+    
+    main {
+        padding: 20px;
+    }
+    
+    .menu {
+        max-width: 1200px;
+        margin: auto;
+    }
+    
+    h2 {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    
+    .board {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+        gap: 20px;
+    }
+    
+    .item {
+        background: white;
+        border-radius: 8px;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        text-align: center;
+        padding: 15px;
+        transition: transform 0.2s;
+    }
+    
+    .item img {
+        width: 100%;
+        border-radius: 8px;
+    }
+    
+    .item h3 {
+        margin: 10px 0;
+    }
+    
+    .item p {
+        color: #555;
+    }
+    
+    .item span {
+        font-weight: bold;
+        color: #6f4c3e;
+    }
+    
+    .item:hover {
+        transform: scale(1.05);
+    }
+    
+    footer {
+        text-align: center;
+        padding: 10px;
+        background: rgb(130, 70, 21);
+        color: rgb(255, 255, 255);
+        position: relative;
+        bottom: 0;
+        width: 100%;
+    }
+    
